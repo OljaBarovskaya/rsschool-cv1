@@ -16,14 +16,16 @@ Discord: oliabarovskaya (oljabarovskaya)#1515
 **About myself:**
 ------------------------
 
-I am veryresponsible, able to learn quickly, patient, nonconflict and tactful.  
+I am very responsible, able to learn quickly, patient, nonconflict and tactful.  
 
 **Skills and proficiency:**
 ------------------------
 
 * HTML5 
 
-* CSS3 
+* CSS3
+ 
+* JavaScript
 
  
 **Education and job experience:**
@@ -61,6 +63,8 @@ const assert = require("chai").assert;
 --------------------------
 
 CV#1. Markdown & Git 
+Plants
+Momentum
 
 **Languages:**
 ---------------------------
