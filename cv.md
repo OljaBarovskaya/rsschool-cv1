@@ -62,7 +62,7 @@ const assert = require("chai").assert;
 **Projects:**
 --------------------------
 
-CV#1. Markdown & Git 
+* CV#1. Markdown & Git 
 Plants
 Momentum
 
